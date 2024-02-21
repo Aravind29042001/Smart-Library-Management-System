@@ -141,7 +141,7 @@ class Hospital {
         return result;
     }
 
-    // Other methods for retrieval, updating, searching, etc.
+
 }
 
 public class HospitalManagementSystem {
@@ -166,7 +166,6 @@ public class HospitalManagementSystem {
             System.out.println(appointment.getPatient().getName() + " has an appointment with " + appointment.getDoctor().getName());
         }
 
-        // Other operations
     }
 }
 
